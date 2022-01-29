@@ -1,0 +1,9 @@
+{
+  "eslint.validate": ["javascript", "html"],
+  "eslint.alwaysShowStatus": true,
+  "editor.tabSize": 2,
+  "git.ignoreLimitWarning": true,
+  "editor.codeActionsOnSave": {  // 저장시 eslint식으로 변환
+    "source.fixAll.eslint": true 
+  }
+}
